@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="/icon.png">
+  <img width="100" height="100" src="/icon.png">
 </p>
 
 # Charlie
